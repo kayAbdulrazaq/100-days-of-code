@@ -33,6 +33,6 @@
 
 **Today's Progress**: Forked 100DaysofCode repo on Github, Updated today's progress on it, Worked on FreeCodeCamp excercises.
 
-**Thoughts:** I still have so much to learn on using Github and Git. So overwhelming but I can do this. FreeCodeCamp is going fine. I can see the cat photo app tutorial coming on fine. I can't wait to create my own version from scratch on codepen! 
+**Thoughts:** I still have so much to learn on using Github and Git. So overwhelming but I can do this. FreeCodeCamp is going fine (so far I have learnt how to linking images, creating border for an image, creating forms, inputs and buttons for the forms,lists. I can see the cat photo app tutorial coming on fine. I can't wait to create my own version from scratch on codepen! 
 
 **Link to work:** [My 100 Days of Code repo] (https://github.com/kayAbdulrazaq/100-days-of-code)
