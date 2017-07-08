@@ -31,7 +31,8 @@
 ### Day 10: July 8 , 2017 
 ##### 
 
-**Today's Progress**: Forked 100DaysofCode repo on Github, Updated today's progress on it, Worked on FreeCodeCamp excercises. 
+**Today's Progress**: Forked 100DaysofCode repo on Github, Updated today's progress on it, Worked on FreeCodeCamp excercises.
+
 **Thoughts:** I still have so much to learn on using Github and Git. So overwhelming but I can do this. FreeCodeCamp is going fine. I can see the cat photo app tutorial coming on fine. I can't wait to create my own version from scratch on codepen! 
 
-**Link to work:** https://github.com/kayAbdulrazaq/100-days-of-code
+**Link to work:** [My 100 Days of Code repo] (https://github.com/kayAbdulrazaq/100-days-of-code)
