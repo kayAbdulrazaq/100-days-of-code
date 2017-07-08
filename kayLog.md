@@ -28,10 +28,10 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-### Day 9: July 8, 2017 
+### Day 10: July 8 , 2017 
 ##### 
 
-**Today's Progress**: 
-**Thoughts:** 
+**Today's Progress**: Forked 100DaysofCode repo on Github, Updated today's progress on it, Worked on FreeCodeCamp excercises. 
+**Thoughts:** I still have so much to learn on using Github and Git. So overwhelming but I can do this. FreeCodeCamp is going fine. I can see the cat photo app tutorial coming on fine. I can't wait to create my own version from scratch on codepen! 
 
-**Link to work:** 
+**Link to work:** https://github.com/kayAbdulrazaq/100-days-of-code
