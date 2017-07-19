@@ -1,10 +1,10 @@
 ### Day 14 : July 18  , 2017 
 ##### 
-**Progress**    
+**Progress**: Continued Colt's Web devp Bootcamp tutorial on Udemy. Worked on creating a Pokemon reference table using HTML. Also created my first pen. 
 
-**Thoughts:** 
+**Thoughts:** It was a lovely yet simple tutorial. The best part today was getting to code on Codepen. Now I have a link to finally add to my journal. YAY!
 
-** Links to Work**  
+**Links to Work:**  https://codepen.io/kayAbdulrazaq/pen/MoMVKP
 
 ### Day 13 : July 18  , 2017 
 ##### 
