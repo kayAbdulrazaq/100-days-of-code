@@ -1,4 +1,4 @@
-### Day 14 : July 18  , 2017 
+### Day 14 : July 19  , 2017 
 ##### 
 **Progress**: Continued Colt's Web devp Bootcamp tutorial on Udemy. Worked on creating a Pokemon reference table using HTML. Also created my first pen. 
 
