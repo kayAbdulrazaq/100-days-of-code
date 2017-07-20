@@ -1,3 +1,9 @@
+### Day 15 : July 20  , 2017 
+##### 
+**Progress**: Back on free code camp, learning responsive design using bootstrap. 
+
+**Thoughts:** I think I will be here for some time. Bootstrap is new to me but so far its going good. 
+
 ### Day 14 : July 19  , 2017 
 ##### 
 **Progress**: Continued Colt's Web devp Bootcamp tutorial on Udemy. Worked on creating a Pokemon reference table using HTML. Also created my first pen. 
