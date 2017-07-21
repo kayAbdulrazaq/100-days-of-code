@@ -1,3 +1,11 @@
+
+
+### Day 16 : July 21  , 2017 
+##### 
+**Progress**: Still on Free Code Camp's responsive web design  w/ Bootstrap
+
+**Thoughts:** The whole idea of resonsive web design is getting clearer for me. But still trying to figure out bootstrap code statements one challenge at a time. Maybe by the end of the section, everything will come together.
+
 ### Day 15 : July 20  , 2017 
 ##### 
 **Progress**: Back on free code camp, learning responsive design using bootstrap. 
