@@ -1,5 +1,12 @@
 
 
+### Day 17 : July 22  , 2017 
+##### 
+**Progress**: More Free code camp's responsive web design w/ Bootstrap
+
+**Thoughts:** Things are going fine but I can't wait to see the end product of all this. 
+
+
 ### Day 16 : July 21  , 2017 
 ##### 
 **Progress**: Still on Free Code Camp's responsive web design  w/ Bootstrap
