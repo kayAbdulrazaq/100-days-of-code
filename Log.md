@@ -1,4 +1,10 @@
+### Day 18:  
+##### 
+**Progress**: Complete Free Code Camp's Bootstrap section. Logged into Codecademy and completed first Make a Website section for revision. 
 
+**Thoughts:** After FCC Boostrap section, I initially intended to practice all three concepts learnt for far (HTML, CSS & Bootstrap) on Codecademy but I just realized  the projects were not on the free/basic account. So I just thought I would revise the concepts by directly completing the instructions only. 
+
+**Resource Link** https://www.codecademy.com/learn/make-a-website
 
 ### Day 16 - 17:  
 ##### 
