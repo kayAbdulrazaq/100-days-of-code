@@ -1,4 +1,11 @@
-### Day 18:  
+### Day 20 : August 5th, 2017
+##### 
+**Progress**: Continued with Codecademy's make a website course. I finished with revising CSS Borders and Spaces by completing the instructions given.  
+
+**Thoughts:** After approx 10 days break (I had some interviews scheduled miles away and was out of town), I have been craving to get back on coding especially everytime I come across a tweet with 100 Days of Code Hashtag. I am back on track now. I can do this by Allah's Grace. 
+
+
+### Day 18 - 19 :  
 ##### 
 **Progress**: Complete Free Code Camp's Bootstrap section. Logged into Codecademy and completed first Make a Website section for revision. 
 
