@@ -1,3 +1,10 @@
+### Day 21 - 24: August 6th - 9th , 2017
+##### 
+**Progress**: Finished Codecademy's make a website course. Volunteered to upgrade the SEO features of non profit organization's wordpress self hosting site. Spent alot of time reading about SEO and applying what I am learning to the website.  
+
+**Thoughts:** I think I should practice HTML, CSS and Bootstrap learnt so far by building a mini floral gallery website on Codepen.  
+
+
 ### Day 20 : August 5th, 2017
 ##### 
 **Progress**: Continued with Codecademy's make a website course. I finished with revising CSS Borders and Spaces by completing the instructions given.  
