@@ -1,3 +1,6 @@
+### I really tried hard to stay consistent but life happenens. I won't give up and I will start over. I have created another file under 100 days of code repo - 'Log2.md' and will be logging my second try with 100 Days of Code and hopefully this time, when life happens... I come out of it with a lemonade or something lol
+##### 
+
 ### Day 21 - 24: August 6th - 9th , 2017
 ##### 
 **Progress**: Finished Codecademy's make a website course. Volunteered to upgrade the SEO features of non profit organization's wordpress self hosting site. Spent alot of time reading about SEO and applying what I am learning to the website.  
