@@ -1,4 +1,4 @@
-### I really tried hard to stay consistent but life happenens. I won't give up and I will start over. I have created another file under 100 days of code repo - 'Log2.md' and will be logging my second try with 100 Days of Code and hopefully this time, when life happens... I come out of it with a lemonade or something lol
+### I really tried hard to stay consistent but life happens. I won't give up and I have decided to start all over. I have created another file under 100 days of code repo - 'Log2.md' and will be logging my second try with 100 Days of Code and hopefully this time, when life happens... I come out of it with a lemonade or something lol
 ##### 
 
 ### Day 21 - 24: August 6th - 9th , 2017
