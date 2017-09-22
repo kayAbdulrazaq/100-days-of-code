@@ -1,5 +1,5 @@
 
-### Day  : Date
+### Day   : 
 ##### 
 **Progress**: 
 
@@ -17,8 +17,8 @@
 
 **Thoughts:** 
 
-### Day  : Date
+### Day 1  : 22nd September 2017 
 ##### 
-**Progress**: 
+**Progress**: Worked on an HTML form 
 
-**Thoughts:** 
+**Thoughts:** It feels good to not give up. I did something light today. I was running short of time but I managed to get soem refreshing going. 
