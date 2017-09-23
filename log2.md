@@ -11,11 +11,11 @@
 
 **Thoughts:** 
 
-### Day  : Date
+### Day 2 : 23rd Sept 2017
 ##### 
-**Progress**: 
+**Progress**: Worked some more with CSS 
 
-**Thoughts:** 
+**Thoughts:** Still slightly refreshing and learning new things on the go. Not much done today but hopefully tomorrow, I will be able to complete CSS section of the Bootcamp. 
 
 ### Day 1  : 22nd September 2017 
 ##### 
