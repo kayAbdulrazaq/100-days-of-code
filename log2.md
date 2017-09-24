@@ -5,9 +5,9 @@
 
 **Thoughts:** 
 
-### Day  : Date
+### Day 3 : 24th Sept 2017
 ##### 
-**Progress**: 
+**Progress**: still on Colt Steele's web development bootcamp - worked with CSS selectors 
 
 **Thoughts:** 
 
