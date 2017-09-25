@@ -1,9 +1,14 @@
-
 ### Day   : 
 ##### 
 **Progress**: 
 
 **Thoughts:** 
+
+### Day  4 : 25th Sept 2017
+##### 
+**Progress**: Still on Colt Steele's web development bootcamp - Understanding CSS specificty and cascade. 
+
+**Thoughts:** I didn't get much time today due to a friend's impromptu visit. I managed 30 mins of coding learning CSS specifity. Will be testing my self with a coding excercise tomorrow. 
 
 ### Day 3 : 24th Sept 2017
 ##### 
