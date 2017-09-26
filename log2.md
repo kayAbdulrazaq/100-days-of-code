@@ -1,8 +1,8 @@
-### Day   : 
+### Day 5  : 26th Sept 2017
 ##### 
-**Progress**: 
+**Progress**: Worked on Colt Steele's CSS selector exercise to consolidate CSS specifcity.  
 
-**Thoughts:** 
+**Thoughts:** I did pretty well. Feels so good I didn't give up on any. I am actually excited to move on to the next topic. I still feel like coding but it's late. I need rest. haha
 
 ### Day  4 : 25th Sept 2017
 ##### 
