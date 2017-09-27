@@ -1,3 +1,39 @@
+### Day   : 
+##### 
+**Progress**: 
+
+**Thoughts:** 
+
+### Day   : 
+##### 
+**Progress**: 
+
+**Thoughts:** 
+
+### Day   : 
+##### 
+**Progress**: 
+
+**Thoughts:** 
+
+### Day   : 
+##### 
+**Progress**: 
+
+**Thoughts:** 
+
+### Day   : 
+##### 
+**Progress**: 
+
+**Thoughts:** 
+
+### Day 6  : 27th Sept 2017
+##### 
+**Progress**: Working with CSS Box Model.
+
+**Thoughts:** I got a better understanding to how the CSS box model works. It was nice to see how chrome developer inspector can be used to understand the concept even better. I will be consolidating the concepts learnt today on my next session. 
+
 ### Day 5  : 26th Sept 2017
 ##### 
 **Progress**: Worked on Colt Steele's CSS selector exercise to consolidate CSS specifcity.  
