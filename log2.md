@@ -22,11 +22,11 @@
 
 **Thoughts:** 
 
-### Day   : 
+### Day 7 - 9  : 28th - 30th Sept 2017
 ##### 
-**Progress**: 
+**Progress**: Continued learning CSS Box Model concepts on colt steel's bootcamp course , worked on Tic tac toe exercise and created a mini photo blog. 
 
-**Thoughts:** 
+**Thoughts:** Feeling good with CSS Box model concepts so far.  The tic tac toe and photo blog was fun. Next I will be creating  one on codepen with my own touches added to it.  
 
 ### Day 6  : 27th Sept 2017
 ##### 
