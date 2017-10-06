@@ -10,17 +10,21 @@
 
 **Thoughts:** 
 
-### Day   : 
+### Day 12 - 16   : 3rd - 6th Oct 2017
 ##### 
-**Progress**: 
+**Progress**: Completed another CSS Box Model exercise, this time it was a mini news blogsite.  I have also started some introduction to Bootstrap framework.
 
-**Thoughts:** 
+**Thoughts:** The mini news blogsite was challenging but I didn't give up. It took couple of days but I think it looks good. The challenge gave me a good practice on using chrome inspector to figure out how to set the properties of my elements which would otherwise be so difficult. I love the chrome inspector!! 
 
-### Day   : 
+**Link:** Here is how it looks on codepen: http://bit.ly/2wBweqv 
+
+### Day 10 & 11   : 1st - 2nd Oct 2017
 ##### 
-**Progress**: 
+**Progress**: Completed another mini photo blog with my own touches using CSS Box Model 
 
-**Thoughts:** 
+**Thoughts:** I am finally building things. It feels good. So much more to learn!
+
+**Link:** Here is how it looks on codepen: bit.ly/2xLzpzN 
 
 ### Day 7 - 9  : 28th - 30th Sept 2017
 ##### 
