@@ -1,14 +1,14 @@
-### Day   : 
+### Day    : 
 ##### 
 **Progress**: 
 
 **Thoughts:** 
 
-### Day   : 
+### Day 17 - 20  : 7th - 10th Oct 2017 
 ##### 
-**Progress**: 
+**Progress**: I didn't get the time to actually code anything, I was out of town w/o my laptop but I watched Colt Steele's Boostrap Tutorials videos and read coding posts on medium just to keep myself from zoning out of the coding atmosphere I have created. 
 
-**Thoughts:** 
+**Thoughts:** I missed tapping my fingers on my laptop. But I will be back on track soon 
 
 ### Day 12 - 16   : 3rd - 6th Oct 2017
 ##### 
