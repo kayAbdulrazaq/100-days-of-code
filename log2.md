@@ -1,8 +1,8 @@
-### Day    : 
+### Day 21   : 11th Oct 2017
 ##### 
-**Progress**: 
+**Progress**: Continued with Colt Steele's Web Devp Bootcamp on Udemy - still on Bootstrap section. 
 
-**Thoughts:** 
+**Thoughts:** Airtel network was really bad today for video streaming so I just managed to watch few of the bootstrap tutorials. I hope it will be much better tomorrow. Can't wait to start applying Bootstrap on Colt's assignments. I've also started preparing a time table for studying Andela's Home study curriculum 
 
 ### Day 17 - 20  : 7th - 10th Oct 2017 
 ##### 
