@@ -1,3 +1,15 @@
+### Day    : 
+##### 
+**Progress**: 
+
+**Thoughts:** 
+
+### Day 22   : 12th Oct 2017
+##### 
+**Progress**: Continued with Colt Steele's web devp bootcamp - worked on Bootstrap forms and navbars.
+
+**Thoughts:** It felt easier working with Bootstrap tutorials on FreeCodeCamp, I got a bit out of place with today's tutorial. I will give it some time to settle. Clearly, more practice with bootstrap is needed. 
+
 ### Day 21   : 11th Oct 2017
 ##### 
 **Progress**: Continued with Colt Steele's Web Devp Bootcamp on Udemy - still on Bootstrap section. 
