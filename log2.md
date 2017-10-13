@@ -1,8 +1,8 @@
-### Day    : 
+### Day 23   : 13th Oct 2017
 ##### 
-**Progress**: 
+**Progress**: Rewatched yesterday's tutorial video and tried to do the exercises but because of family commitments, I could just manage two solid hours of working with it. 
 
-**Thoughts:** 
+**Thoughts:** Bootstrap is like playing with puzzles but you need to have an idea of what each of puzzle does so it fits in correctly (atleast that the way I see it now). I am giving myself another chance tomorrow before moving to next topic  - Bootstrap Grid System. I hope I finally get it while trying to attempt colt's code along by myself.  
 
 ### Day 22   : 12th Oct 2017
 ##### 
