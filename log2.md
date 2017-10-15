@@ -1,4 +1,12 @@
-### Day 23   : 13th Oct 2017
+### Day 24 - 25   : 14th -15th Oct 2017
+##### 
+
+**Progress** watched some bootstrap  tutorials on Bootstrap Grid System. 
+
+**Thoughts:** Today was ome of those days where netwwork isn't on my side. My tutorial vids kept buffering for so long . I tried to stay positive regardless. Grid system  looks alright now. I hope it staays that waay. I also hope tomorrow would be aa netter day for Airtel
+
+
+### Day 23   : 13th Oct 2017
 ##### 
 **Progress**: Rewatched yesterday's tutorial video and tried to do the exercises but because of family commitments, I could just manage two solid hours of working with it. 
 
