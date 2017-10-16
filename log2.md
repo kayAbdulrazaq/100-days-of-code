@@ -1,3 +1,10 @@
+### Day 26   : 16th Oct 2017
+##### 
+
+**Progress** Done with Colt Steele's Bootstrap tutorials. I will be consolidating what I have learnt for past days by building two projects - A photo blog using BS Grid System and a more challenging project - a start up landing page. 
+
+**Thoughts:** My experience with last section's CSS hands on projects were fun (although it took a while to create but I am proud of what I was able to build) so I can't wait to start building these two projects using BS Grid System. My coding time was just an hour today, I had to sign up for my voters card and that took longer than I expected. Definitely glad I was able to finish the last two Bootstrap tutorials of this bootcamp. 
+
 ### Day 24 - 25   : 14th -15th Oct 2017
 ##### 
 
