@@ -1,3 +1,10 @@
+### Day 27   : 17th Oct 2017
+##### 
+
+**Progress** Had a code along session with Colt Steele building a photoblog. Tomorrow I will be building another photo blog but  completely on my own and using my own ideas and touches. 
+
+**Thoughts:** Initially, I thought I would just attempt the photoblog on my own and then compare my solution to Colt's like I have been doing since I have started this bootcamp. I decided to code along with Colt this time because I felt I needed to learn how he attempts his projects from start - the process involved. I didn't regret doing so, I am glad I did because I learnt how to approach building this mini photoblog by  breaking down the requirements into simpler tasks and slowly building over it until I had a finish product. It was fun and I can't wait to attempt my own photoblog using my choice of color pallette, fonts, icons etc.     
+
 ### Day 26   : 16th Oct 2017
 ##### 
 
