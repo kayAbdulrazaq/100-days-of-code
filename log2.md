@@ -1,3 +1,10 @@
+### Day 28  : 18th Oct 2017
+##### 
+
+**Progress** Worked on my 'African Wildlife Image Gallery' that I promised to create the other day. I am 80% done with it, I am left with adding the images and a color palette.
+
+**Thoughts:** I was able to get the main parts of the photoblog ready in a jiff which put a smile on my face and boosted my confidence. What is taking me longer is the little extra mile I am going with the photo blog trying to add features based on google search. Right now I am stuck on creating a divider between two of my navigation items but facing challanges with the height of the divider. I have decided to take a break with it and continue the next day. Perhaps getting back to it with a fresh mind will do the trick. 
+
 ### Day 27   : 17th Oct 2017
 ##### 
 
