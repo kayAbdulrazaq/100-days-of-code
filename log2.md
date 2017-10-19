@@ -1,3 +1,11 @@
+### Day 29  : 19th Oct 2017
+##### 
+
+**Progress** 99% done with the 'African Wildlife Image Gallery'. I am still looking for a way to add a divider to my navigation bar with the height of the divider shorter than the height of the items in the navigation bar. No breakthrough with that yet but I can say all the essentials of the photo blog are in placce. 
+
+**Thoughts:** I am so sleepy I can barely type this update with both eyes open, I couldn't head to bed without logging for the day. I do hope I get a breakthrough with the last peice of the puzzle to my Photoblog. Next project is a start up landing page!
+
+
 ### Day 28  : 18th Oct 2017
 ##### 
 
