@@ -1,3 +1,21 @@
+### Day 30  : 20th Oct 2017
+##### 
+
+**Progress** FINALLY DONE WITH MY AFRICAN WILDLIFE IMAGE GALLERY!! sorry that came out in caps but I am so happy I got through this. I have one more bootstrap grid project to work on but after all I went through with building this mini image gallery, I think I am more prepared to take on a bigger project. 
+
+**Thoughts:** Oh my!, this mini image gallery using bootstrap grid system was packed with challenges but guess what, I made it through. After 2 days of battling and taking breaks in between, I finally got a breakthrough. Although I had a code along seesion of this mini image gallery during Colt's bootcamp tutorial, I decided to added few extra feature from my side to challenge my self on researching and figuring how to make it happen. I wanted a divider on the navigation bar, I also wanted the navbar to have social media icons instead of just the sin up and login links, my own choice of font from google fonts plus I wanted to a have border color for my thumbnails and then  finally I wanted to choose a different pallete than Colt used.  Here are some of the challenges I faced while and fortunately crossed over: 
+
+1- First major challenge was trying to figure how to add a divider. This was huge and it took 2 days to figure it out. I googled and googled, tried lots of code, check with friends I trusted would know, tried alot of code but yet nothing. So how did I fix it? -- I decided to use a skill Colt taught us - the Chrome inspector!! I know I have said this earlier but again I love the chrome inspector!! This thing solved the challenge. I used the chrome inspector to check the code from a website that had the kind of divider i wanted to replicate. At first I couldn't understand the code so I took hours off and tried it again the next day. I played around with the chrome inspector trying to understand which part of the code creates the divider. As soon I found that out I just replicated their code and played with the copied code until it worked on mine. It wasn't a blind copy paste because I still edited properties to make it work on mine but eventually, it worked! 
+
+2- Second challenge was trying to get my code work on CodePen! - I didn't know why none of my fancy pancy navbar wouldn't work or look how it did locally. I googled and found out that CodePen moved to Bootstrap 4 and my project was working with Bootstrap 3. Yup! After watching a video on how to change my settings to Bootstrap 3 and adding the Jquery plus JS links, everything appeared as it should. So now I know how to add external scripts to my CodePen projects. Yay! 
+
+3- Another challenge was fixing the white space bug that appears when images are placed besides each other in grid system. I used the bootcamp forum to solve that. Also, solved the issue of having the images appear similarly cropped and in a more organized way because I had images with different width and heights.
+
+These were my major challenges that took a while for me to solve besides the little ones that didn't take long to solve. 
+
+This is a long thought, but I am so happy I was able to get over the challenges. I certainly didn't give up. Persistence is key, speaking of which I JUST HIT 30TH DAY OF 100 DAYS OF CODE with this very commit. I really hope to keep going. I am totally getting the hang of this challenge now. Let the learning continue! 
+
+
 ### Day 29  : 19th Oct 2017
 ##### 
 
