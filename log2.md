@@ -1,3 +1,11 @@
+### Day 31  : 21st Oct 2017
+##### 
+
+**Progress** I couldn't get it in as much coding as I planned for today, I wasn't feeling well and also the network was crappy again so streaming Tutorial videos was not successful either. I worked on my start up landing page. Not yet done with it but I really hope network would be better tomorrow plus I hope I would be feeling much better. I did a bit of studying Andela's homestudy curriculum as well. 
+
+**Thoughts:** some days are better than others. It shouldn't make me feel so bad, I will just put it extra effort on the good days to compensate for the bad ones. 
+
+
 ### Day 30  : 20th Oct 2017
 ##### 
 
