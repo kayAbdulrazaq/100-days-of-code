@@ -1,9 +1,21 @@
+### Day 32  : 22nd Oct 2017
+##### 
+
+**Progress** Rounded up Colt Steele Boostrap section by building a start up landing page. Next, I am moving on to Javascript. On Andela Home study progress, completed more than calculated - started of programming basics to refresh my memory. Tomorrow I will be doing some more revision with reading generally on programming syntax, data types, variables etc.  
+
+**Thoughts:** The internet connection was still bad to day, videos just kept buffering. Atleast, I managed to complete a start up landing page. With this page done, I think I have consolidated Bootstrap basics and I am ready to move on to other things. Things like Javascript! - pretty excited to start off finally with this language. I hope I enjoy learning it tomorrow. 
+
+**Link to work** Zawaj - A Muslim Matrimony website: http://bit.ly/2gZIwmP
+
+
 ### Day 31  : 21st Oct 2017
 ##### 
 
 **Progress** I couldn't get it in as much coding as I planned for today, I wasn't feeling well and also the network was crappy again so streaming Tutorial videos was not successful either. I worked on my start up landing page. Not yet done with it but I really hope network would be better tomorrow plus I hope I would be feeling much better. I did a bit of studying Andela's homestudy curriculum as well. 
 
 **Thoughts:** some days are better than others. It shouldn't make me feel so bad, I will just put it extra effort on the good days to compensate for the bad ones. 
+
+**Link to work** The Purrfect Match - http://bit.ly/2yHstDo
 
 
 ### Day 30  : 20th Oct 2017
