@@ -1,3 +1,11 @@
+### Day 33  : 23rd Oct 2017
+##### 
+
+**Progress** Started with Web Developer Bootcamp's Javascript section today. Still managing with a slow network so my progress isn't moving ahead as fast I thought it would.  
+
+**Thoughts:**  Feeling good with JS so far. Javascript syntax seems pretty easy. A lot easier than Java syntax that I was taught in university. I hope I will continue to see it that way. Meanwhile on Andela homestudy progress - I have started Codecademy's JS course. So working with JS on udemy as well as codecademy. It will be interesting to see how fast I can grasp JS concepts. 
+
+
 ### Day 32  : 22nd Oct 2017
 ##### 
 
