@@ -1,4 +1,13 @@
-### Day 33  : 23rd Oct 2017
+ 
+ ### Day 34 : 24th Oct 2017
+##### 
+
+**Progress** Continued  with Codecademy's JS course. Moving on to functions next.
+
+**Thoughts:**  I covered variables, datatypes, loops in JS today. Smooth stuff,
+
+ 
+ ### Day 33  : 23rd Oct 2017
 ##### 
 
 **Progress** Started with Web Developer Bootcamp's Javascript section today. Still managing with a slow network so my progress isn't moving ahead as fast I thought it would.  
