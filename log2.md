@@ -1,5 +1,12 @@
- 
- ### Day 34 : 24th Oct 2017
+ ### Day 35 : 25th Oct 2017
+##### 
+
+**Progress**  Covered Javascript Functions today on Codecademy's Javascript course. 
+
+**Thoughts:**  I am not very happy with my progress these two days, I need to put in more effort. 
+
+
+### Day 34 : 24th Oct 2017
 ##### 
 
 **Progress** Continued  with Codecademy's JS course. Moving on to functions next.
