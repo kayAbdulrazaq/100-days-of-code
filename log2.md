@@ -1,4 +1,12 @@
- ### Day 35 : 25th Oct 2017
+### Day 36 : 26th Oct 2017
+##### 
+
+**Progress** Continued with Colt Steele's Web Developer Bootcamp course - covered JS primitives, variables and a little introduction to methods. Next coding session, I will be working on JS exercises to consolidate what I have covered so far on the course. Meanwhile on Andela Home Study Program , I am still on Codecademy JS courses. So far I have covered in brief: conditional statements, functions, scope concept in JS, JS Objects (Array). I will be learning about loops next on Codecademy. 
+
+**Thoughts:**  I like that both WBD and Andela homestudy are focusing on JS concepts for now. I am slightly ahead with Codecademy but this serves as a light introduction to WBD's JS concepts. Going over the concepts again with Colt will really deepen my understanding. Moreover, the codecademy course I signed up for is the free subscription which doesn't include interactive lessons or freeform projects which are avalaible in upgraded version. 
+
+
+### Day 35 : 25th Oct 2017
 ##### 
 
 **Progress**  Covered Javascript Functions today on Codecademy's Javascript course. 
