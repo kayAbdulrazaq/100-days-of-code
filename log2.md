@@ -1,3 +1,11 @@
+### Day 37 : 27th Oct 2017
+##### 
+
+**Progress** WBD Bootcamp with Colt, successfully nailed Colt's do it yourself exercises on JS. The exercises was about building an age calculator and a progam that prompted for name and printed out on the console, the full name of the person.
+
+**Thoughts:** I really hope I continue to enjoy JS concepts because so far it's sweet and digestable. Nothing complicated yet.
+
+
 ### Day 36 : 26th Oct 2017
 ##### 
 
