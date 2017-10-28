@@ -1,7 +1,15 @@
+### Day 38 : 28th Oct 2017
+##### 
+
+**Progress** I got a dose of Jquery from Codecademy's JS course. It wasn't bad at all. I don't why I was getting anxious about jquery all this while. Now that I have started the course, it makes sense and I am starting to appreciate it more. Also did a bit of Colt Steel's WDB - I covered Section 8 which JS basics, now I am on section 9 unit 97 conditionals. 
+
+**Thoughts:** I actually like that I am going through these concepts again with WDB (I worked with some of the topics on codecademy as well), it might seem redundant to some but to me its not, it gives me a broader understanding especially with Colt Steele's verbal explanations. 
+
+
 ### Day 37 : 27th Oct 2017
 ##### 
 
-**Progress** WBD Bootcamp with Colt, successfully nailed Colt's do it yourself exercises on JS. The exercises was about building an age calculator and a progam that prompted for name and printed out on the console, the full name of the person.
+**Progress** WDB Bootcamp with Colt, successfully nailed Colt's do it yourself exercises on JS. The exercises was about building an age calculator and a progam that prompted for name and printed out on the console, the full name of the person.
 
 **Thoughts:** I really hope I continue to enjoy JS concepts because so far it's sweet and digestable. Nothing complicated yet.
 
@@ -11,7 +19,7 @@
 
 **Progress** Continued with Colt Steele's Web Developer Bootcamp course - covered JS primitives, variables and a little introduction to methods. Next coding session, I will be working on JS exercises to consolidate what I have covered so far on the course. Meanwhile on Andela Home Study Program , I am still on Codecademy JS courses. So far I have covered in brief: conditional statements, functions, scope concept in JS, JS Objects (Array). I will be learning about loops next on Codecademy. 
 
-**Thoughts:**  I like that both WBD and Andela homestudy are focusing on JS concepts for now. I am slightly ahead with Codecademy but this serves as a light introduction to WBD's JS concepts. Going over the concepts again with Colt will really deepen my understanding. Moreover, the codecademy course I signed up for is the free subscription which doesn't include interactive lessons or freeform projects which are avalaible in upgraded version. 
+**Thoughts:**  I like that both WBD and Andela homestudy are focusing on JS concepts for now. I am slightly ahead with Codecademy but this serves as a light introduction to WDB's JS concepts. Going over the concepts again with Colt will really deepen my understanding. Moreover, the codecademy course I signed up for is the free subscription which doesn't include interactive lessons or freeform projects which are avalaible in upgraded version. 
 
 
 ### Day 35 : 25th Oct 2017
