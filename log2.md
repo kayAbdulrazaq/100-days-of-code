@@ -1,9 +1,17 @@
-### Day 38 : 28th Oct 2017
+
+## Day 39: 29th Oct 2017
+##### 
+
+**Progress** Completed Codecademy's JS ccourse today. Ended the course with jQuery. WDB is going great too - covered conditionals today - I had some practice with programming logic too. Next with  Colt is loops, That should be interesting. 
+
+**Thoughts:** As i ended the Codecademy JS course, I felt the  jQuery concepts towards the end of course were quite shady with me so  I am glad I will get to go over those concepts  again with the WDB course so i am not too worried about it. I got the overview of what jQuery is about, learnt some tricks and I cant wait to go into it deeper with Colt. Completed a milestone with my prep for Andela Nigeria  Fellowship,I will still be on JS concepts to get a broader understanding of what was covered earlier and  add some more concepts to the basket.  I almost forgot to commit to github, that would have been depressing. So glad the alarm in me didn't allow my eyes to shut until I remembered what was yet to be done.
+
+## Day 38 : 28th Oct 2017
 ##### 
 
 **Progress** I got a dose of Jquery from Codecademy's JS course. It wasn't bad at all. I don't why I was getting anxious about jquery all this while. Now that I have started the course, it makes sense and I am starting to appreciate it more. Also did a bit of Colt Steel's WDB - I covered Section 8 which JS basics, now I am on section 9 unit 97 conditionals. 
 
-**Thoughts:** I actually like that I am going through these concepts again with WDB (I worked with some of the topics on codecademy as well), it might seem redundant to some but to me its not, it gives me a broader understanding especially with Colt Steele's verbal explanations. 
+**Thoughts:** I actually like that I am going through these concepts again with WDB (I worked with some of the topics on codecademy as well), it might seem redundant to some but to me its not, it gives me a broader understanding especially with Colt Steele's verbal explanations.
 
 
 ### Day 37 : 27th Oct 2017
