@@ -1,3 +1,9 @@
+## Day 40: 30th Oct 2017
+##### 
+
+**Progress**  Completed while loops section  of WDB and worked on 3 problem set to test my self. I did well with logic and syntax aspect of this problem set. Also started reading MDN's Javscript guide to take my understanding of JS concepts to another level. I was able to cover the introduction section today and tomorrow will be moving on to grammar types section of the docs. 
+
+**Thoughts:** IT'S DAY FORTY! Happy and very much still motivated to succeed. I do get that feeling of "this might take ages to reach that web developer goal" but at the end of the day its what I have added to my knowledge that counts. If i stick to it everday, what I learn each day will  add to previous days' knowledge which means I am turning a new leaf each day. I should be proud of that and be patient. Slow and steady wins the race they say. 
 
 ## Day 39: 29th Oct 2017
 ##### 
