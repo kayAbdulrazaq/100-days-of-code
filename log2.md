@@ -1,3 +1,10 @@
+## Day 41: 31th Oct 2017
+##### 
+
+**Progress** Completed JS loops section on Colt's web developer bootcamp course. Successfully solved yesterday's while loop exercises using for loop. Moving on JS functions next.
+
+**Thoughts:** For loop statements are way shorter than while loops! 
+
 ## Day 40: 30th Oct 2017
 ##### 
 
