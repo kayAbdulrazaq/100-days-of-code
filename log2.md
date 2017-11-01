@@ -1,3 +1,10 @@
+## Day 42: 1st Nov 2017
+##### 
+
+**Progress** Started JS Functions on WDB course. I didn't spend much time as expected -  network issues. For what it's worth, I did read some blog posts on responsive web design. 
+
+**Thoughts:**  Having network issues sucks big time!
+
 ## Day 41: 31th Oct 2017
 ##### 
 
