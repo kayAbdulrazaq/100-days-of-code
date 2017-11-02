@@ -1,3 +1,12 @@
+
+## Day 43: 2st Nov 2017
+##### 
+
+**Progress** Half way through JS functions part of WDB course. On Andela home curriculum, still on  MDN's Javascript guide. 
+
+**Thoughts:**  This was one of those unmotivated days but I still sticked to today's learning.  
+
+
 ## Day 42: 1st Nov 2017
 ##### 
 
