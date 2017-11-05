@@ -1,16 +1,14 @@
+## Day 45 & 46: 4th & 5th Nov 2017
+##### 
+
+**Progress**  Almost done with Section 10 of Colt's Web developer bootcamp. Getting more practice with JS Functions. Next I will be moving to JS Arrays.  
+
+
 ## Day 44: 3rd Nov 2017
 ##### 
 
 **Progress** Practiced some JS functions.  
   
-
-## Day 43: 2nd Nov 2017
-##### 
-
-**Progress** Half way through JS functions part of WDB course. On Andela home curriculum, still on  MDN's Javascript guide. 
-
-**Thoughts:**  This was one of those unmotivated days but I still sticked to today's learning.  
-
 
 ## Day 42: 1st Nov 2017
 ##### 
