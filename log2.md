@@ -1,3 +1,9 @@
+## Day 47 & 48: 6th & 7th Nov 2017
+##### 
+
+**Progress**  It was all about the Arrays on WDB course.  
+
+
 ## Day 45 & 46: 4th & 5th Nov 2017
 ##### 
 
