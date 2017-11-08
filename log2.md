@@ -1,3 +1,10 @@
+## Day 49: 8th Nov 2017
+##### 
+
+**Progress**  Array Interation with Colt on WDB course.  
+
+**thoughts** Going through some tough times but still managing to stay committed to everday coding and learning. I hope to get back to my initial progressing speed very soon.
+
 ## Day 47 & 48: 6th & 7th Nov 2017
 ##### 
 
