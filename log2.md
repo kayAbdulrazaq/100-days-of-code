@@ -1,3 +1,8 @@
+## Day 50 & 51: 9th & 10th Nov 2017
+##### 
+
+**Progress** Rounding up Array concepts with Colt by testing my understanding with on Array problem sets. 
+
 ## Day 49: 8th Nov 2017
 ##### 
 
