@@ -1,3 +1,8 @@
+## Day 52: 11th Nov 2017
+##### 
+
+**Progress** Finally done with Arrays! Now on JS Objects - Section 12, Lecture 134 of WBD course: Comparing Arrays and Objects in syntax. 
+
 ## Day 50 & 51: 9th & 10th Nov 2017
 ##### 
 
