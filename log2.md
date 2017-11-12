@@ -1,7 +1,15 @@
+## Day 53: 12th Nov 2017
+##### 
+
+**Progress** Gradually getting familiar with JS Objects. More progess done in WDB course. 4 more topics in this currect section and I will be moving to DOM Manipulation next.
+
+**Thoughts** Retreiving complicated objects (objects with arrays or arrays with objects) can get pretty confusing. I need to master my way out of it. 
+
+
 ## Day 52: 11th Nov 2017
 ##### 
 
-**Progress** Finally done with Arrays! Now on JS Objects - Section 12, Lecture 134 of WBD course: Comparing Arrays and Objects in syntax. 
+**Progress** Finally done with Arrays! Now on JS Objects - Section 12, Lecture 134 of WDB course: Comparing Arrays and Objects in syntax. 
 
 ## Day 50 & 51: 9th & 10th Nov 2017
 ##### 
