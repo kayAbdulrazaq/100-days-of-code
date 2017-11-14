@@ -1,3 +1,10 @@
+## Day 53 & 54: 13th & 14th Nov 2017
+##### 
+
+**Progress** Done with JS Objects and I have started with DOM Manipulation on WDB on Udemy. 
+
+**Thoughts** Can't wait to revisit HTML and CSS with JavaScript again. Colt promised us with exciting vidoes to come. 
+
 ## Day 53: 12th Nov 2017
 ##### 
 
