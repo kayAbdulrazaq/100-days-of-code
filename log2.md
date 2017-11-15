@@ -1,4 +1,9 @@
-## Day 53 & 54: 13th & 14th Nov 2017
+## Day 56: 15th Nov 2017
+##### 
+
+**Progress** Still on DOM Manipulation concepts. Covered Selectors today and I practiced using different ways to select elements from the page. Now that I can select, I will be learning to manipulate. 
+
+## Day 54 & 55: 13th & 14th Nov 2017
 ##### 
 
 **Progress** Done with JS Objects and I have started with DOM Manipulation on WDB on Udemy. 
