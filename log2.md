@@ -1,3 +1,8 @@
+## Day 57 & 58: 16th & 17th Nov 2017
+##### 
+
+**Progress** Spent the two days reading MDN's comprehensive Javascript guide. I covered the basics and will get back to Colt's videos next.
+
 ## Day 56: 15th Nov 2017
 ##### 
 
