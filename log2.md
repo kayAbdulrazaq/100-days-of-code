@@ -1,3 +1,9 @@
+## Day 59: 18th Nov 2017
+##### 
+
+**Progress** Back on the WDB course, completed the DOM Manipulation section. Had fun learning how to mess with Google's Landing page using Javascript. haha. Now I think I am ready for more advanced DOM concepts. 
+
+
 ## Day 57 & 58: 16th & 17th Nov 2017
 ##### 
 
