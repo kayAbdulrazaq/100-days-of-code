@@ -1,3 +1,10 @@
+## Day 60, 61 & 62: 19th, 20th & 21th Nov 2017
+##### 
+
+**Progress**  I need good practice with event handling concept. These three days I practiced selecting different elements and executing code when an event takes place.
+
+**Thoughts** Event handling is quite tricky. Syntax errors kept coming up with all those curly brackets and sqaure brackets.  
+
 ## Day 59: 18th Nov 2017
 ##### 
 
