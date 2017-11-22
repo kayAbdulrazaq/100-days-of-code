@@ -1,3 +1,9 @@
+## Day 63: 22nd Nov 2017
+##### 
+
+**Progress**  Covered two DOM manipulation tutorials on Colt's WDB course. I worked on creating a button, which when clicked toggles the background color of the page. 
+
+
 ## Day 60, 61 & 62: 19th, 20th & 21th Nov 2017
 ##### 
 
