@@ -1,3 +1,10 @@
+## Day 64 & 65: 22nd Nov 2017
+##### 
+
+**Progress** Working on a Score keeper exercise combining  HTML, CSS and Javascript concepts. The score keeper keeps score of a game between two players and allows the players to choose the number of rounds required for a winner to emerge. Also spent good amount of time reading MDN's Javascript guide - currently on Indexed Collections!
+
+**Thoughts** I hope at the end of this exercise, I will be able to wrap my head around starting a basic application using HTML, CSS and JS. Not much of styling is involved in this score keeper exercise but the aim is to nail the logic behind a basic score keeper application. 
+
 ## Day 63: 22nd Nov 2017
 ##### 
 
