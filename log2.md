@@ -1,4 +1,9 @@
-## Day 64 & 65: 22nd Nov 2017
+## Day 66 & 67 : 25th & 26th Nov 2017
+##### 
+
+**Progress** Colt Steele's WDB course - Section 14, video 157.
+
+## Day 64 & 65: 23rd & 24th Nov 2017
 ##### 
 
 **Progress** Working on a Score keeper exercise combining  HTML, CSS and Javascript concepts. The score keeper keeps score of a game between two players and allows the players to choose the number of rounds required for a winner to emerge. Also spent good amount of time reading MDN's Javascript guide - currently on Indexed Collections!
