@@ -1,3 +1,10 @@
+## Day 68 & 69 : 27th & 28th Nov 2017
+##### 
+
+**Progress** Completed the Score Keeper app and uploaded it on GitHub for the first time! Now I have another repository besides 100 Days of Code.   
+
+**Thoughts** It feels good to see a new repository besides the usual 100 Days of Code. I am surely going to upload my other existing projects on GitHub.
+
 ## Day 66 & 67 : 25th & 26th Nov 2017
 ##### 
 
