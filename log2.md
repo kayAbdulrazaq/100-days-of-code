@@ -1,3 +1,8 @@
+## Day 70 & 71 : 29th & 30th Nov 2017
+##### 
+
+**Progress** Completed Section 14 of WDB course with Colt. Done with Advanced DOM Manipulation. I will be moving on to working on  color project next. More on that tomorrow. 
+
 ## Day 68 & 69 : 27th & 28th Nov 2017
 ##### 
 
