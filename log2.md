@@ -1,5 +1,12 @@
-## Day 70 & 71 : 29th & 30th Nov 2017
+## Day 72, 73 & 74: 1st, 2nd & 3rd Dec 2017
 ##### 
+
+**Progress** Brushing up on  JS topics covered so far by going through Eloquent Javascript, JS book written by Marijn Haverbeke. I am not done with it yet though.
+
+**Thoughts** Honestly been tied up with my big brother coming to Nigeria for a visit. However, because I want to stay consistent and not lose my 74 Days streak, I am occupying  my coding hour with reading Eloquent JS. Before starting any video tutorials on JS or even starting  the Web developer bootcamp with Colt on Udemy, I read few pages of Eloquent JS and felt really bored and eventually had to put it awsy . I am not sure why that  happened because now having covered upto JS events with Colt and now reading Eloquent JS, my opinion has changed entirely. Everything makes sense now!
+
+## Day 70 & 71 : 29th & 30th Nov 2017
+#####
 
 **Progress** Completed Section 14 of WDB course with Colt. Done with Advanced DOM Manipulation. I will be moving on to working on  color project next. More on that tomorrow. 
 
