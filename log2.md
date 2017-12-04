@@ -1,3 +1,14 @@
+## Day 75: 4th Dec 2017
+##### 
+
+**Progress** Uploaded another exercise I have recently done on Github. I rewrote the code myself again and I am glad I did.  
+
+**Thoughts** While doing this exercise, I made mistakes which I think has taught me quite a few lessons. Who says you have to be building a huge project before you learn something. 
+
+One such lesson learnt from this exercise: 
+
+*Selecting an element using querySelector works safer than selecting elements using getElementsByClassName.* : This simple information caused me 3 hours of debugging. It totally skipped my mind that using a 'getElementsByClassName' returns a list of elements if not used in a certain format that allows you to specify the index of the element to be returned << eg: btn.getElementsByClassName('button')[1] >>. I selected by element using 'getElementsByClassName'  and ended up with an error message similar to  *variable.addEventListener  is not a function*. On subsequently googling it, I understood that its better to use 'querySelector' which is straight to point and returns just one element. Rather than using 'getElementsByClassName' which return a whole list. 
+
 ## Day 72, 73 & 74: 1st, 2nd & 3rd Dec 2017
 ##### 
 
