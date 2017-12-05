@@ -1,3 +1,10 @@
+## Day 76: 5th Dec 2017
+##### 
+
+**Progress** I uploaded projects on Github that  I have worked on so far during this coding journey. Read a distilled Computer Science book by Wladston Ferreira Filho. 
+
+**Thoughts** The aim behind reading this book is to refresh some concepts that will be useful for me while coding. I have come across some of these concepts during my I.T degree and I could really use some refreshing
+
 ## Day 75: 4th Dec 2017
 ##### 
 
@@ -27,6 +34,9 @@ One such lesson learnt from this exercise:
 **Progress** Completed the Score Keeper app and uploaded it on GitHub for the first time! Now I have another repository besides 100 Days of Code.   
 
 **Thoughts** It feels good to see a new repository besides the usual 100 Days of Code. I am surely going to upload my other existing projects on GitHub.
+
+**Link to work** - [Score Keeper link on Github](https://github.com/kayAbdulrazaq/score-keeper)
+- [Score Keeper link on Codepen](https://codepen.io/kayAbdulrazaq/pen/xPaqBY)
 
 ## Day 66 & 67 : 25th & 26th Nov 2017
 ##### 
@@ -202,7 +212,7 @@ One such lesson learnt from this exercise:
 
 **Thoughts:** The internet connection was still bad to day, videos just kept buffering. Atleast, I managed to complete a start up landing page. With this page done, I think I have consolidated Bootstrap basics and I am ready to move on to other things. Things like Javascript! - pretty excited to start off finally with this language. I hope I enjoy learning it tomorrow. 
 
-**Link to work** Zawaj - A Muslim Matrimony website: http://bit.ly/2gZIwmP
+**Link to work** [Zawaj - A Muslim Matrimony website's landing page](http://bit.ly/2gZIwmP)
 
 
 ### Day 31  : 21st Oct 2017
@@ -212,7 +222,7 @@ One such lesson learnt from this exercise:
 
 **Thoughts:** some days are better than others. It shouldn't make me feel so bad, I will just put it extra effort on the good days to compensate for the bad ones. 
 
-**Link to work** The Purrfect Match - http://bit.ly/2yHstDo
+**Link to work** [The Purrfect Match - start up landing page](http://bit.ly/2yHstDo)
 
 
 ### Day 30  : 20th Oct 2017
@@ -232,6 +242,9 @@ These were my major challenges that took a while for me to solve besides the lit
 
 This is a long thought, but I am so happy I was able to get over the challenges. I certainly didn't give up. Persistence is key, speaking of which I JUST HIT 30TH DAY OF 100 DAYS OF CODE with this very commit. I really hope to keep going. I am totally getting the hang of this challenge now. Let the learning continue! 
 
+
+**Link to work**  - [Wildlife Gallery Github link](https://github.com/kayAbdulrazaq/Wildlife_Gallery)
+- [Wildlife Gallery Codepen link](https://codepen.io/kayAbdulrazaq/pen/wrOQKP)
 
 ### Day 29  : 19th Oct 2017
 ##### 
@@ -253,7 +266,9 @@ This is a long thought, but I am so happy I was able to get over the challenges.
 
 **Progress** Had a code along session with Colt Steele building a photoblog. Tomorrow I will be building another photo blog but  completely on my own and using my own ideas and touches. 
 
-**Thoughts:** Initially, I thought I would just attempt the photoblog on my own and then compare my solution to Colt's like I have been doing since I have started this bootcamp. I decided to code along with Colt this time because I felt I needed to learn how he attempts his projects from start - the process involved. I didn't regret doing so, I am glad I did because I learnt how to approach building this mini photoblog by  breaking down the requirements into simpler tasks and slowly building over it until I had a finish product. It was fun and I can't wait to attempt my own photoblog using my choice of color pallette, fonts, icons etc.     
+**Thoughts:** Initially, I thought I would just attempt the photoblog on my own and then compare my solution to Colt's like I have been doing since I have started this bootcamp. I decided to code along with Colt this time because I felt I needed to learn how he attempts his projects from start - the process involved. I didn't regret doing so, I am glad I did because I learnt how to approach building this mini photoblog by  breaking down the requirements into simpler tasks and slowly building over it until I had a finish product. It was fun and I can't wait to attempt my own photoblog using my choice of color pallette, fonts, icons etc.    
+
+**Link to work** [Photo Blog on Codepen](https://codepen.io/kayAbdulrazaq/pen/ZXJdVv)
 
 ### Day 26   : 16th Oct 2017
 ##### 
@@ -300,7 +315,7 @@ This is a long thought, but I am so happy I was able to get over the challenges.
 
 **Thoughts:** The mini news blogsite was challenging but I didn't give up. It took couple of days but I think it looks good. The challenge gave me a good practice on using chrome inspector to figure out how to set the properties of my elements which would otherwise be so difficult. I love the chrome inspector!! 
 
-**Link:** Here is how it looks on codepen: http://bit.ly/2wBweqv 
+**Link:** Here is how it looks on [codepen:](http://bit.ly/2wBweqv)
 
 ### Day 10 & 11   : 1st - 2nd Oct 2017
 ##### 
@@ -308,7 +323,7 @@ This is a long thought, but I am so happy I was able to get over the challenges.
 
 **Thoughts:** I am finally building things. It feels good. So much more to learn!
 
-**Link:** Here is how it looks on codepen: bit.ly/2xLzpzN 
+**Link:** Here is how it looks on [codepen:](bit.ly/2xLzpzN)
 
 ### Day 7 - 9  : 28th - 30th Sept 2017
 ##### 
