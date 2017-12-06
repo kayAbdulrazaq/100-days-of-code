@@ -1,3 +1,10 @@
+
+
+## Day 77: 6th Dec 2017
+##### 
+
+**Progress** Read MDN's JS guide. Learnt about Maps. Also continuedd to read distilled computer science book.
+
 ## Day 76: 5th Dec 2017
 ##### 
 
