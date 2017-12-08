@@ -1,4 +1,9 @@
+## Day 78 & 79: 7th & 8th Dec 2017
+##### 
 
+**Progress** Covered some more topics on Distilled Computer Science book (precisely on Boolean Algebra and logic behind truth tables). Covered a Github tutorial on creating a git repository using the bash command line and connecting the local repository to it's online version available on github.com. I also covered a tutorial on code commenting/ documentation of projects on GitHub. 
+
+**Thoughts** I realized I didn't do a good job not commenting on the coding exercises/projects or repositories that I have uploaded on GitHub lately and how amateur that would make me look (not denying I am an amateur anyway), so I decided to read some resources on how to provide useful comments to my codes on Github that will not just allow me to understand what the code does but also make it easy for others to find out too. I should point out that I've learnt that commit messages should always be in present tense because we may choose to revert to an earlier state. Hence from now, I will be leaving my commit messages in the present tense. 
 
 ## Day 77: 6th Dec 2017
 ##### 
