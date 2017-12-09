@@ -1,3 +1,8 @@
+## Day 80: 9th Dec 2017
+##### 
+
+**Progress** Read few tutorials on good code commenting so I have started adding comments to projects I have uploaded on GitHub to reflect on what I have read.  
+
 ## Day 78 & 79: 7th & 8th Dec 2017
 ##### 
 
