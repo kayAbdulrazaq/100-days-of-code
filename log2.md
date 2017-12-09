@@ -1,7 +1,7 @@
 ## Day 80: 9th Dec 2017
 ##### 
 
-**Progress** Read few tutorials on good code commenting so I have started adding comments to projects I have uploaded on GitHub to reflect on what I have read.  
+**Progress** I read few tutorials on good code commenting and I have started adding comments to projects uploaded on GitHub to reflect on what I have read. I also attended the Nigerian Women Techsters' first class (introductory) of 12 classes that will be training 200 women in web and mobile applications, Game Development and Embedded systems. I opted for web ofcourse. 
 
 ## Day 78 & 79: 7th & 8th Dec 2017
 ##### 
