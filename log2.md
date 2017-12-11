@@ -1,3 +1,8 @@
+## Day 81 & 82: 10th  & 11th Dec 2017
+##### 
+
+**Progress** Refactored the African Wildlife Project on GitHub and added comments to more projects uploaded.  
+
 ## Day 80: 9th Dec 2017
 ##### 
 
