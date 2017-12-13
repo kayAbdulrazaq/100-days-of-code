@@ -1,3 +1,9 @@
+## Day 83 & 84: 12th  & 13th Dec 2017
+##### 
+
+**Progress** MDN's JS guide ( trying to grasp the concept of closures) and Eloquent Javascript (2nd Edition)    
+
+
 ## Day 81 & 82: 10th  & 11th Dec 2017
 ##### 
 
