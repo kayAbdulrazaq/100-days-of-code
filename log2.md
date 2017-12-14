@@ -1,3 +1,11 @@
+## Day 85: 14th Dec 2017
+##### 
+
+**Progress** More of MDN Javascript and Eleqouent JS. 
+
+**Thoughts** Today was one of those "I am not sure coding is for me" days. Feel so overwhelmed trying to keeping up with everything on my schedule. Sigh. 
+
+
 ## Day 83 & 84: 12th  & 13th Dec 2017
 ##### 
 
