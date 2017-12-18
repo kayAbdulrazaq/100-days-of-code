@@ -1,3 +1,15 @@
+## Day 86, 87, 88 &  89: 15th, 16th, 17th & 18th Dec 2017
+##### 
+
+**Progress** 
+-15th Dec: More pages read from MDN Javascript and Eloquent JS
+-16th Dec: Attended Ibadan's first Python Meetup, I networked while learning more about Python Fundamentals, Learnt the basics of -building a web app using Flask web framwork, I had an enlightening listen to alot of possibilities that could come from Internet of Things.
+-17th Dec: Started a 'Color Game' project that will round up my skills so far in HTML,CSS, Bootstrap and Javascript  
+-18th Dec: Didn't work much as initially planned. Listened to Free code camp podcasts titled "Which progrmming language should you learn first" - although I have already chosen mine, I like that this podcast offers projects to work on while learning (that's exactly what caught my attention) 
+
+**Thoughts** I warned myself about not logging my coding activities this way but I really wasn't able to log in the last three days. I am nearing 100 days and I should have got used to logging daily by now. I really should. 
+
+
 ## Day 85: 14th Dec 2017
 ##### 
 
