@@ -1,3 +1,8 @@
+## Day 90 & 91: 19th & 20th Dec 2017
+##### 
+
+**Progress** Worked on my Color Game project. I have been given an assignment that required me to finish Codecademy's HTML course (Assignment given at the Nigerian Women Techsters Training program), so I worked on that too. 
+
 ## Day 86, 87, 88 &  89: 15th, 16th, 17th & 18th Dec 2017
 ##### 
 
