@@ -1,3 +1,10 @@
+## Day 92 & 93: 21st & 22nd Dec 2017
+##### 
+
+**Progress** I worked on codecademy's HTML course, completed two sections and I am left with the last one. It was good practice of the concepts learnt. Also read resources of Array methods. 
+
+**Link to work** [Fashion Blog (Pure HTML](https://codepen.io/kayAbdulrazaq/full/ypaWLV)
+
 ## Day 90 & 91: 19th & 20th Dec 2017
 ##### 
 
