@@ -3,7 +3,7 @@
 
 **Progress**  Worked on getting the rest of the color game basics set. Next, I will add the basic logic behind the game.
 
-**Link to Work** (Color Game )[https://codepen.io/kayAbdulrazaq/pen/xpRoNb]
+**Link to Work** [Color Game](https://codepen.io/kayAbdulrazaq/pen/xpRoNb)
 
 ## Day 94 & 95: 23rd & 24th Dec 2017
 ##### 
