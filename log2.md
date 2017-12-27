@@ -1,3 +1,10 @@
+## Day 97 & 98: 26th & 27th Dec 2017
+#####
+ 
+ **Progres** Worked more on the color game project - not quite done yet, also read resources on freelancing as web developer on Skill Crush's Hard Refresh section.
+ 
+
+
 ## Day 96: 25th Dec 2017
 #####
 
