@@ -1,20 +1,16 @@
 ## Day 100: 29th Dec 2017
 #####
  
- **Progress** Worked on the color project. Really tried to get it over with before the clocked striked 12 am but I couldn't. I have the styling left. Most of the logic works so I guess I am good. 
+ **Progress** Worked on the color project. Really tried to get it over with before the clock strikes 12 am but I can pull it through. I have the styling left. Most of the logic works so I guess I am good. 
  
- **Thoughts** I am so happy I made it to the 100th Day!! And I am totally going for round two. There are somethings I would like to do before starting off with that though. I also hope to write a post on My take of 100 Days of Code, I really hope I end up publishing it on medium. But I will celebrate the fact that I pulled it through regardless and completed the 100 Days of Code Challenge - Round 1.
+ **Thoughts** I am so happy I made it to the 100th Day!! And I am totally going for round two. There are things I would like to do before starting off with that though. I am hope I will be able to write a post on my experience with the challenge, I hope I do end up publishing it on medium. But for now, I think will celebrate the fact that I pulled it through regardless and completed the 100 Days of Code Challenge - Round 1. So here is to Round 2!
  
- **Links to work** 
+ **Links to work** [color Game](https://codepen.io/kayAbdulrazaq/full/xpRoNb)
 
 ## Day 99: 28th Dec 2017
 #####
  
  **Progress** Contiued to work on my color game. Trying my best to complete it before I finish 100 Days of code challenge. 
- 
- **Thoughts**
- 
- **Link to work** 
 
 
 ## Day 97 & 98: 26th & 27th Dec 2017
